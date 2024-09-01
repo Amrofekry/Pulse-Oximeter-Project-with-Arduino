@@ -18,7 +18,11 @@ The MAX30100 pulse oximeter sensor includes a red light, an infrared light, and 
 1. **Heart Rate**: Using the reflection of red and infrared light through the skin.
 2. **SpO2 Levels**: Calculated based on light absorption characteristics of oxygenated and deoxygenated hemoglobin.
 
-## Circuit Diagram
+## Circuit Diagra
+
+![Picture1](https://github.com/user-attachments/assets/f59005e2-d564-49ad-97f6-49ba642345cf)
+
+![Picture2](https://github.com/user-attachments/assets/f6998e88-1cf5-4154-991c-a5c33127bc2d)
 
 
 
